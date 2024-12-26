@@ -13,5 +13,6 @@ public class primenummber {
 			 System.out.println(i);
 		 }
 	 }
+	 System.out.println("==Pass the execution==");
 }
 }
